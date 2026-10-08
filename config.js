@@ -3,7 +3,7 @@
 // row-level security rules in supabase/migrations/001_init.sql.
 // NEVER put the service_role key or the Anthropic key in this file.
 window.EV1L_CONFIG = {
-  supabaseUrl: "https://YOUR-PROJECT-ID.supabase.co",
-  supabaseAnonKey: "YOUR-ANON-PUBLIC-KEY",
-  aiProxyUrl: "https://YOUR-PROJECT-ID.supabase.co/functions/v1/ai-render"
+  supabaseUrl: "https://WolfOfWI.supabase.co",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpoaWd0d2Rld2tqa21zandpY2ttIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE0NDkyMzEsImV4cCI6MjEwNzAyNTIzMX0.LdRHc0z7UAVmfdWEinj4B9XcFP6L-UlEkMt0cL4jWms",
+  aiProxyUrl: "https://WolfOFWI.supabase.co/functions/v1/ai-render"
 };
